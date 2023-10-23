@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Dharmil Shiroya</h1>
 
-<img src="https://quotefancy.com/media/wallpaper/3840x2160/1700728-Linus-Torvalds-Quote-Talk-is-cheap-Show-me-the-code.jpg" alt="profile pic" width="1000" height="400" />
+<img src="https://quotefancy.com/media/wallpaper/3840x2160/1700728-Linus-Torvalds-Quote-Talk-is-cheap-Show-me-the-code.jpg" alt="profile pic" width="1300" height="400" />
 
 <h3 align="center">A passionate FullStack developer from India</h3>
 
