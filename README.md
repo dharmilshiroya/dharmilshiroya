@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Dharmil Shiroya</h1>
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fquotefancy.com%2Fprogramming-quotes&psig=AOvVaw3uz3wcPXlXXGCrz_saWQux&ust=1698148548182000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDf5rmOjIIDFQAAAAAdAAAAABAE" alt="profile pic"/>
+<img src="https://quotefancy.com/media/wallpaper/3840x2160/1700728-Linus-Torvalds-Quote-Talk-is-cheap-Show-me-the-code.jpg" alt="profile pic"/>
 
 <h3 align="center">A passionate FullStack developer from India</h3>
 
