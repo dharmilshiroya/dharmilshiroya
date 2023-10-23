@@ -10,6 +10,8 @@
 
 - 🌱 I’m currently learning **MERN Stack.**
 
+- I’m looking to collaborate in web dev projects.
+
 - 💬 Ask me about **Python, JavaScript, React and Node.**
 
 - 📝 I regularly write articles on [ServerAvatar](https://serveravatar.com/deployments)
